@@ -260,7 +260,7 @@ Example:
 - We may wish to consider offering staff the ability to voluntarily drop down a band if they consistently fail to meet performance targets.
 - If so, we'd need to do the work now to identify how we could make that work with HR.
 - But we also need a bullet-proof way to fairly (i.e. without bias) establish that this was now the correct outcome, and that we have tried everything else.
-- We'd also need to clearly set out how this is a "kind" intervention for the individual, designed to more appropriately challenge them with work would be able to succeed at. (Optimum challenge)
+- We'd also need to clearly set out how this is a "kind" intervention for the individual, designed to more appropriately challenge them with work they would be able to succeed at. (Optimum challenge)
 
 Positive triggers:
 
