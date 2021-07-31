@@ -86,6 +86,12 @@ Note: I'm still using the bad name in this document for the time being.
 
 ### 3.2 System Values
 
+Why a values-based system is desirable:
+
+- Clearly communicates our intentions
+- If and when edge cases crop up, there is no need to invent policy on-the-fly (which may seem unfair or biased) - we can refer back to the values to help us decide what to do.
+
+
 What values will our new system/culture embody and promote:
 
 - Shift away from "assessing performance" and new focus on "enhancing performance"
@@ -156,6 +162,8 @@ Need to plan out the structure of the document as a whole so that I can find app
 
 ### 5.1. Top-down refresh of roles and Responsibilities
 
+Note: We ran a survey last year which gave us some insight into what the developers wanted roles at different grades to look like.
+
 What is each grade's role, from Sean down to non-senior developers.
 
 What is expected of them, and how this might be different in differing contexts
@@ -199,6 +207,20 @@ This example spanning 2 weeks and pertaining to the Senior Developer role could 
 - 0.5 hours - NHSD All Hands (i.e. 1 hour, once per month)
 
 => 0.5 days per sprint to implement new features
+
+
+Should we group these together into aggregated categories:
+
+(some indicative examples)
+
+- Individual contribution
+- Helping others
+- Line management
+- Planning & organising
+- Learning new things
+- Time away
+
+
 
 
 ### 5.2 Designed programme of coaching support
@@ -246,6 +268,13 @@ Participation and compliance
 
 - This is a special type of meta-monitoring
 - Principals will need to be held to account for ensuring Senior Devs do what is required, and so on
+
+How this all fits with the existing line management arrangements:
+
+- Staff will be asked to document their accomplishments through the week
+- Staff will discuss and reflect on these accomplishments with their line managers each week
+- Benefit to them: This record of continuing professional development will assist them in progressing their career. (e.g. by making it easier to prepare for promotion)
+- Benefit to them: ... Need more ways to sell this as a useful thing to the individual and the line manager.
 
 
 
