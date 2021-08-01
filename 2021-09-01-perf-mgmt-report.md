@@ -7,6 +7,15 @@
 
 ---
 
+## Pre-publish checklist
+
+- Ensure the document is written in the past tense (i.e. "we decided X because Y")
+- Ensure there is a clear flow from Goal to Value to implementation detail - the logic should be clear and unassailable
+- ...
+- Remove this checklist
+
+---
+
 ## Table of Contents
 
 ## 1. Introduction
@@ -20,6 +29,7 @@
 
 - What specifically are we trying to achieve here.
 - Ideally these things should be measurable, and we should measure them so that we know if we have been successful.
+- Make sure that we can clearly link each of these goals to the system design, in both directions.
 
 ### 1.2.1 Individual Goals
 
@@ -28,7 +38,7 @@
 - Provide support as required
 - Reward and praise success
 - Clarify roles and responsibility
-- Clarify expectations
+- Clarify expectations to prevent overwork
 
 ### 1.2.2 Team Goals
 
@@ -85,6 +95,10 @@ Note: I'm still using the bad name in this document for the time being.
 - Once we have decided what we're calling this thing, then I will re-write this section to turn it into a description of what the new things is (e.g. by reference to the values below)
 
 ### 3.2 System Values
+
+We have decided to take a value-based approach to designing the new system.
+
+Diagram: Goals + Values --> System
 
 Why a values-based system is desirable:
 
@@ -330,6 +344,8 @@ If our "trial run" goes from October to end of March then we'd like iteration 2 
 
 
 ### 5.9 Calendar/Timeline
+
+This is an evolution of the previous "practice" system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
 
 Need to produce a calendar showing key activities
 
