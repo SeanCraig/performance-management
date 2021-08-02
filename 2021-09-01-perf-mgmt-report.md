@@ -18,7 +18,36 @@
 
 ## Table of Contents
 
+1. Introduction  
+    1.1 Scope  
+    1.2 Goals  
+    1.3 ...  
+2. ...
+3. ...
+99. Appendices
+
+- Quick Guides:
+    - N1. Quick Guide for Principal Engineers
+    - N2. Quick Guide for Senior Developers
+    - N3. Quick Guide for Developers
+    - N4. Quick Guide for Contractors
+    - N5. Quick Guide for Delivery Managers & Product Owners
+- Supporting Documents:
+    - N6. Job Descriptions - Software Developer bands 6 to 8b
+    - N7. Roles & Responsibilities - Software Developer bands 6 to 8b
+    - N8. Time Allocations - Software Developer bands 6 to 8b
+    - N9. Quarterly Objective Setting Cycle
+    - N10. ...  
+
+---
+
 ## 1. Introduction
+
+Some introductory text:
+
+- History - why are we doing this perf mgmt work?
+- What is this document - this is the overall policy
+- Other documents - mention the appendices, suggest that a quick guide is the best place to start
 
 ## 1.1. Scope
 
