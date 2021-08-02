@@ -33,6 +33,7 @@
 
 ### 1.2.1 Individual Goals
 
+- Promote a working environment conducive to happiness and good mental health
 - Help them to do their best work
 - Provide optimum challenges
 - Provide support as required
@@ -352,3 +353,17 @@ Need to produce a calendar showing key activities
 Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
 
 The Principals and Sean may also wish for a separate timeline regarding where I plan to be in the creation of this report between now and 1st September.
+
+### Checklists
+
+Why checklists work (e.g. Checklist Manifesto, and also reference medical usage)
+
+We will provide checklists for:
+
+- What Sean needs to do
+- What Principals need to do
+- What Senior Devs need to do
+- What other devs need to do
+
+(These need to be situational)
+
