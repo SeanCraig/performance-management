@@ -84,6 +84,7 @@ Some introductory text:
 - Nurture human capital and retain staff by ensuring the culture is not overbearing
 - Better alignment of 20% time work to improving Software Quality Dashboard and ensuring compliance with Software Quality Framework
 
+---
 
 ## 2. Barriers to Success
 
@@ -107,6 +108,8 @@ Some introductory text:
 - May fail to generate the required team capabilities.
 - Tempting to get lost in process rather than focusing on culture and mindset.
 - Line managers (from Sean downwards) may find it difficult to find time to properly run the system.
+
+---
 
 ## 3. Communication Plan
 
@@ -167,7 +170,7 @@ How will we communicate about the performance management:
 - ACTION: Produce guidance tailored specifically for developers in order to sell the benefits to them
 - ACTION: Produce guidance tailored specifically for DMs/POs in order to sell the benefits to them
 
-
+---
 
 ## 4. Roles & Responsibilities within the system
 
@@ -199,71 +202,43 @@ Note about preserving the line management relationships:
 - Therefore they may need to be excluded from certain activities (or included in others) to protect their relationship with the subordinate.
 - (Yes, even if the line manager themselves is the one who has concerns about the performance.)
 
+---
 
 ## 5. More Things to include in this Report
 
 Need to plan out the structure of the document as a whole so that I can find appropriate places for these things to go
 
-### 5.1. Top-down refresh of roles and Responsibilities
+### 5.1. Roles & Responsibilities
 
-Note: We ran a survey last year which gave us some insight into what the developers wanted roles at different grades to look like.
+**Summary**
 
-What is each grade's role, from Sean down to non-senior developers.
+The new responsibilities acquired at each pay band build upon the responsibilities of the band below.
 
-What is expected of them, and how this might be different in differing contexts
+A developer's "role" is therefore the sum of all the responsibilities at their own band and of the bands below.
 
-- (i.e. make it clear that roles can be situational)
-- (e.g. line management responsibility vs delivery team participation)
-- (e.g. 20% time work on software quality framework and dashboard)
+However, as developers increase in seniority their general focus is expected to shift from individual work to a whole-team approach.
 
-What things are specifically NOT their responsibility. (Good example is that devs are not responsible for meeting deadlines, whereas they ARE responsible for quality)
+**Responsibility Matrix**
 
-What are the roles of other professionals they will work with in these contexts.
-Example: A "Product Manager" has certain responsibilities outside of a delivery team, but within it (acting in the "Product Owner" role) they are responsible only for ensuring the backlog is useful, and NOT for telling the team what to do.
+The responsibility matrix below shows pay bands across the top and areas of responsibility down the side. The new responsibilities acquired at each role are therefore set out in a columnar fashion.
 
-ACTION: Produce RACI charts and supporting materials to ensure all staff are clear about their role and Responsibilities
-
-
-
-### 5.2 Nominal Time Allocation between activities
-
-List of all routine activities and roughly how much time we'd expect them to spend (long-run average)
-
-This example spanning 2 weeks and pertaining to the Senior Developer role could be refined:
-
-- 2.0 days - 20% time
-- 1.0 days - line management and training
-- 1.3 days - Annual Leave (i.e. 27 days per year plus bank holidays)
-- 0.5 days - Sickness (i.e. 13 days per year, which may be slightly more than average)
-- 0.5 days - Stand-Ups (i.e. about 15 minutes for each)
-- 0.5 days - Retro & Planning
-- 0.5 days - Code reviews
-- 0.5 days - Ticket elaboration
-- 0.5 days - Context switching (conservative estimate)
-- 0.5 days - On-the-job training of apprentices/learners (conservative estimate)
-- 0.5 days - Waiting (i.e. handoffs, deployments, builds, etc.)
-- 0.5 days - Responding to emails and Slack
-- 1.0 hours - Show and Tell (i.e. 1 hour, once per fortnight)
-- 1.0 hours - Demo to Product Owner
-- 1.0 hours - SDMT meeting (Senior Devs only)
-- 1.0 hours - Completing timesheets
-- 0.5 hours - PD All Hands (i.e. 1 hour, once per month)
-- 0.5 hours - NHSD All Hands (i.e. 1 hour, once per month)
-
-=> 0.5 days per sprint to implement new features
+|ROLE TITLE|Developer (bands 6 & 7)|Senior Developer (band 8a)|Principal Engineer (band 8b)|Development & Test Manager (band 8c)|
+|---| :--------------- | :--------- | :--------------- | -------------- |
+| **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
+|**CODE**| Feature Development | System Design and Technical Specialism | Engineering Quality Framework |                |
+|**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
+|**GROWING THE TEAM**| Code Reviews | Mentoring and Pairing | Coaching | Coaching and Delegation |
+|**PEOPLE**| Buddy to Apprentice | Line Management and Recruitment of Band 6/7 | Line Management and Recruitment of Band 8a and Contractors | Line Management and Recruitment of Band 8b and Contractors |
+|**FINANCE**|  |  | Payments to Contractors | Overall budget |
 
 
-Should we group these together into aggregated categories:
+**Time Allocation**
 
-(some indicative examples)
+When deciding what to work on next, there is one simple rule:
 
-- Individual contribution
-- Helping others
-- Line management
-- Planning & organising
-- Learning new things
-- Time away
+> Prioritise those activities delivering the most benefit to others
 
+This will usually mean a developer working on activities in their own column in favour of activities in preceeding columns.
 
 
 
@@ -278,7 +253,9 @@ There will also be some planned content and exercises covering:
 - self-confidence
 - self-knowledge
 - critical thinking skills
-- specific concepts related to agile and how we would like them to work
+- specific concepts related to agile/lean etc.
+- the specific roles and responsibilities within delivery teams (DM/PO/dev/etc.)
+
 
 ACTION:
 
