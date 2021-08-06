@@ -1,16 +1,26 @@
 
-# Performance Management for NHSUK Software Development
+# The Way We Work - Vision for Environment and Culture of NHSUK Software Development
 
+---
+
+TODO: Use corporate controlled document teplate
+
+- Version
 - Author: Jacob
 - Date: 1 September 2021
 - Distribution: All (i.e. not a secret once approved)
+- Reviewed by
+- Approved by (Sean)
+- Next review date
 
 ---
 
 ## Pre-publish checklist
 
+- This should be a positive, optimistic and inspiring document 
 - Ensure the document is written in the past tense (i.e. "we decided X because Y")
-- Ensure there is a clear flow from Goal to Value to implementation detail - the logic should be clear and unassailable
+- Do the Values address our Goals and the Barriers? (Hint: They should!)
+- Ensure links from Values to implementation details are identified - it should be possible to understand why we have made the decisions we have made.
 - ...
 - Remove this checklist
 
@@ -19,48 +29,62 @@
 ## Table of Contents
 
 1. Introduction  
-    1.1 Scope  
-    1.2 Goals  
-    1.3 ...  
-2. ...
-3. ...
-99. Appendices
+    1.1 What is The Way We Work? 
+    1.2 Why have we created The Way We Work?  
+    1.3 Scope of The Way We Work
+2. Goals of The Way We Work   
+3. Barriers to Success
+4. How we will measure our success
+5. How we designed The Way We Work
+6. The Way We Work  
+    - 6.1 Roles & Responsibilities  
+    - 6.2 Expected behaviours  
+    - 6.3 How we will support each other  
+    - 6.4 Quarterly objective setting cycle
+99. Appendices  
+    - N1. Quick Guide for Principal Engineers  
+    - N2. Quick Guide for Senior Developers  
+    - N3. Quick Guide for Developers  
+    - N4. Quick Guide for Contractors  
+    - N5. Quick Guide for Delivery Managers & Product Owners  
 
-- Quick Guides:
-    - N1. Quick Guide for Principal Engineers
-    - N2. Quick Guide for Senior Developers
-    - N3. Quick Guide for Developers
-    - N4. Quick Guide for Contractors
-    - N5. Quick Guide for Delivery Managers & Product Owners
-- Supporting Documents:
-    - N6. Job Descriptions - Software Developer bands 6 to 8b
-    - N7. Roles & Responsibilities - Software Developer bands 6 to 8b
-    - N8. Time Allocations - Software Developer bands 6 to 8b
-    - N9. Quarterly Objective Setting Cycle
-    - N10. ...  
 
 ---
 
 ## 1. Introduction
 
-Some introductory text:
+## 1.1 What is The Way We Work?
 
-- History - why are we doing this perf mgmt work?
-- What is this document - this is the overall policy
-- Other documents - mention the appendices, suggest that a quick guide is the best place to start
+This document sets out our vision for the environment and culture within which we wish NHSUK software developers to operate. It also explains how we intend to bring about and maintain that environment and culture.
 
-## 1.1. Scope
+As such, this document is intended to provide an overall policy position so that the leadership team (DTLT) can act independently in a fair and consistent way while bringing about the policy objectives.
 
-- What is in scope for this piece of work
-- What is not in scope
+While we'd encourage all developers and related professionals to read this document, we'd also recommend referring to the relevant Quick Guide in the appendices to see what this policy means for you specifically. 
 
-## 1.2. Goals
+## 1.2 Why have we created The Way We Work?
+
+Recent surveys of NHSUK developers have told us that in order to do their best work they need a clearer explanation of their roles and more support from DTLT. This document is our attempt to meet those needs.
+
+DTLT have also been receiving strong messages from both the Director of Product Delivery, its Head of Engineering, and our own Head of Delivery about the urgent need to re-focus our activities to secure improvements in certain key areas. This document explains the systems which we believe will bring about those improvements. 
+
+## 1.3. Scope of The Way We Work
+
+- What is in scope:  
+    - Developer Roles & Responsibilities
+    - Expected behaviours
+    - Explanation of how support will be provided
+
+- What is not in scope:  
+    - TODO
+
+
+
+
+## 2. Goals of $THIS
 
 - What specifically are we trying to achieve here.
-- Ideally these things should be measurable, and we should measure them so that we know if we have been successful.
-- Make sure that we can clearly link each of these goals to the system design, in both directions.
 
-### 1.2.1 Individual Goals
+### 2.1 Individual Goals
 
 - Promote a working environment conducive to happiness and good mental health
 - Help them to do their best work
@@ -70,14 +94,14 @@ Some introductory text:
 - Clarify roles and responsibility
 - Clarify expectations to prevent overwork
 
-### 1.2.2 Team Goals
+### 2.2 Team Goals
 
 - Help teams make best use of the resource available to them
 - Help teams to operate in a more agile way
 - Delivery of more value and higher quality to the public
 - Better working relations/environment
 
-### 1.2.3 Organisational Goals
+### 2.3 Organisational Goals
 
 - Produce evidence to demonstrate that our developers are contributing adequately (i.e. protect them from outside interference and misguided attempts to judge them)
 - Support the long-term availability of a suitably skilled team of developers (i.e. the team needs to be a "going concern" in business-speak)
@@ -86,24 +110,24 @@ Some introductory text:
 
 ---
 
-## 2. Barriers to Success
+## 3. Barriers to Success
 
 - What could prevent us from achieving our goals.
 - How will we avoid falling into these traps.
 
-### 2.2.1 Individual Barriers
+### 3.1 Individual Barriers
 
 - Individuals usually fear and despise any approach to performance management.
 - Individuals may refuse to comply with an intrusive process.
 - Individuals may believe there is no reward for success, so why bother.
 
-### 2.2.1 Team Barriers
+### 3.2 Team Barriers
 
 - Performance management is often disconnected from the flow of work, and therefore gets overlooked.
 - Lack of psychological safety in teams may hide or prevent useful feedback.
 - Teams are often focussed more on deadlines and delivery rather than in creating the conditions for growth and workforce success.
 
-### 2.2.1 Organisational Barriers
+### 3.3 Organisational Barriers
 
 - May fail to generate the required team capabilities.
 - Tempting to get lost in process rather than focusing on culture and mindset.
@@ -111,35 +135,28 @@ Some introductory text:
 
 ---
 
-## 3. Communication Plan
+## 4. How we will measure our success
 
-### 3.1 What's in a name
+TODO
 
-Why we should avoid calling this "performance management":
+It's important to identify ways to see whether we're on track i.e.
 
-- Words are powerful and can elicit strong emotional responses
-- Negative connotations associated with "performance management"
-- This piece of work isn't just about managing performance, but also supporting people to do their best
-- We're trying to instil a new purpose, mindset, and culture
-- Doing new things in new ways requires a new name
+- are we meeting our goals
+- are we overcoming the barriers
 
-Note: I'm still using the bad name in this document for the time being.
+Note that this isn't about measuring the performance of individuals. It's about measuring how well DTLT are doing at bringing about the desired environment and culture.
 
-- Once we have decided what we're calling this thing, then I will re-write this section to turn it into a description of what the new things is (e.g. by reference to the values below)
+---
 
-### 3.2 System Values
+## 5. How we designed The Way We Work
 
-We have decided to take a value-based approach to designing the new system.
+The Way We Work is an evolution of the quarterly objective-setting and review cycle recently put in place, with the addition of various activities and structures to provide the clarity and support requested by developers and necessary to meet the targets set by senior Product Delivery leadership.
 
-Diagram: Goals + Values --> System
+While it would have been standard practise to put in place a "performance management" system, we have instead opted to take a different approach. We believe that developers do their best work when they have the support they need and when they in turn use some of their time to help others.
 
-Why a values-based system is desirable:
+We understand that it is difficult to describe what it is that makes up a working environment and culture. So we agreed to begin by setting out a set of guiding values to help us design and communicate The Way We Work:
 
-- Clearly communicates our intentions
-- If and when edge cases crop up, there is no need to invent policy on-the-fly (which may seem unfair or biased) - we can refer back to the values to help us decide what to do.
-
-
-What values will our new system/culture embody and promote:
+TODO: Maybe rewrite some of these slightly, and also add a bit more detail for each
 
 - Shift away from "assessing performance" and new focus on "enhancing performance"
 - Focus on the future and not on the past
@@ -150,65 +167,11 @@ What values will our new system/culture embody and promote:
 - Team-based and collaborative, not individualistic and competetive
 - Intrinsic and seamless, not standalone and disconnected from work
 
-### 3.3 Consider the audience
-
-How will we communicate about the performance management:
-
-- With each other
-- With developers
-- With other colleagues e.g. DMs/POs
-
-
-
-
-### Recommendations
-
-- Choose a new name which reflects that this is a way to support the continuous growth of our staff.
-- Specific suggestions e.g. "Developer Empowerment Programme" or "Grow Perform Succeed (GPS) (stolen from Gap).
-- ACTION: DTLT to decide a new name.
-- ACTION: Promote these values to developers. (Helpful if we can back them up with and/or link to specific implemmentation details!)
-- ACTION: Produce guidance tailored specifically for developers in order to sell the benefits to them
-- ACTION: Produce guidance tailored specifically for DMs/POs in order to sell the benefits to them
-
 ---
 
-## 4. Roles & Responsibilities within the system
+## 6. The Way We Work
 
-What are the roles of people in operating our performance management system:
-
-- Sean
-- Principals
-- Jacob in particular (e.g. coaching for Senior developers)
-- Senior developers
-- Other developers
-- DMs/POs
-- Anyone else
-
-There are various activities to be distributed amongst the stakeholders:
-
-- Compliance with the process/system itself
-- Collecting information (e.g. to support evaluation of performance)
-- Filtering/evaluating information (e.g. who deserves praise this week)
-- Meetings and interactions (e.g. weekly 1-2-1s, regular discussions with DMs/POs)
-- Promotion/Communication (e.g. about the system, but also public praise for individuals)
-- Decisions that may need to be taken in response to certain triggers
-- Various kinds of support or intervention
-- Production of educational or supporting documentation
-
-Note about preserving the line management relationships:
-
-- Recognise that there may need to be a slight change in specific circumstances where an individual has somehow performed so poorly that disciplinary action seems likely.
-- A person's line manager should ALWAYS be suportive of and an advocate for their subordinate.
-- Therefore they may need to be excluded from certain activities (or included in others) to protect their relationship with the subordinate.
-- (Yes, even if the line manager themselves is the one who has concerns about the performance.)
-
----
-
-## 5. More Things to include in this Report
-
-Need to plan out the structure of the document as a whole so that I can find appropriate places for these things to go
-
-### 5.1. Roles & Responsibilities
+### 6.1. Roles & Responsibilities
 
 **Summary**
 
@@ -241,29 +204,7 @@ When deciding what to work on next, there is one simple rule:
 This will usually mean a developer working on activities in their own column in favour of activities in preceeding columns.
 
 
-
-### 5.2 Designed programme of coaching support
-
-- First iteration from October to April will be targeted at Senior developers
-- 6 x 1 hour sessions
-- Current and specific issues for each developer will be tackled
-
-There will also be some planned content and exercises covering:
-
-- self-confidence
-- self-knowledge
-- critical thinking skills
-- specific concepts related to agile/lean etc.
-- the specific roles and responsibilities within delivery teams (DM/PO/dev/etc.)
-
-
-ACTION:
-
-- Jacob to plan specific content and suporting materials.
-- (In progress as "This is the way" piece of work and will form part of coaching planning work rather than this report)
-
-
-### 5.3 Expected Performance Targets
+### 6.2 Expected behaviours
 
 Deliberately starting off light and breezy so that it is almost impossible to fail.
 
@@ -298,14 +239,80 @@ How this all fits with the existing line management arrangements:
 - Benefit to them: ... Need more ways to sell this as a useful thing to the individual and the line manager.
 
 
+### 6.3 How we will support each other
 
-### 5.4 Triggers and Interventions
+TODO
+
+What support-related roles and activities are expected of:
+
+- Sean
+- Principals
+- Jacob in particular (e.g. coaching for Senior developers)
+- Senior developers
+- Other developers
+- DMs/POs
+- Anyone else
+
+There are various activities to be distributed amongst the stakeholders:
+
+- Compliance with the process/system itself
+- Collecting information (e.g. to support evaluation of performance)
+- Filtering/evaluating information (e.g. who deserves praise this week)
+- Meetings and interactions (e.g. weekly 1-2-1s, regular discussions with DMs/POs)
+- Promotion/Communication (e.g. about the system, but also public praise for individuals)
+- Decisions that may need to be taken in response to certain triggers
+- Various kinds of support or intervention
+- Production of educational or supporting documentation
+
+**Checklists**
+
+Why checklists work (e.g. Checklist Manifesto, and also reference medical usage)
+
+We will provide checklists for:
+
+- What Sean needs to do
+- What Principals need to do
+- What Senior Devs need to do
+- What other devs need to do
+
+(These need to be situational)
+
+**Coaching support**
+
+- First iteration from October to April will be targeted at Senior developers
+- 6 x 1 hour sessions
+- Current and specific issues for each developer will be tackled
+
+There will also be some planned content and exercises covering:
+
+- self-confidence
+- self-knowledge
+- critical thinking skills
+- specific concepts related to agile/lean etc.
+- the specific roles and responsibilities within delivery teams (DM/PO/dev/etc.)
+
+**Reporting**
+
+TODO
+
+What information will we record and pass up the chain. How will that information be used - i.e. why it is important that we are doing this.
+
+
+**Triggers and Interventions**
+
+TODO
 
 Set out in plain language what will be the triggers for intervention.
 
-Also set out what interventions we will be willing to take in extreme circumstances.
+Also set out what interventions we will be willing to take, including in extreme circumstances.
 
-Example:
+Example of "routine" intervention:
+
+- E.g. developer fails to complete any of their objectives in a given quarter
+- Discussion to take place with line manager and next manager up to agree what extra support can be provided.
+- Line manager maybe also needs extra support? (Because this shouldn't have happened...)
+
+Example of extreme intervention:
 
 - We may wish to consider offering staff the ability to voluntarily drop down a band if they consistently fail to meet performance targets.
 - If so, we'd need to do the work now to identify how we could make that work with HR.
@@ -319,7 +326,58 @@ Positive triggers:
 - Plenty of other potential positive triggers: shipping code N sprints in a row, obtaining a new qualification, etc.
 
 
-### 5.5 Contractors
+### 6.4 Quarterly objective setting cycle
+
+TODO
+
+This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
+
+Need to produce a calendar showing key activities
+
+Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
+
+---
+
+APPENDICES
+
+TODO: Example content of a Quick Guide
+
+- Title
+- Introduction (what is this)
+- Your role and responsibilities
+- Expected behaviours
+- How you will be supported (specifically)
+- How you will support others (specifically)
+- Useful checklists
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+# UNRESOLVED QUESTIONS
+
+This section is for recording 
+
+
+
+
+## Contractors
 
 - How should we manage the performance of contractors?
 - Should we even try?
@@ -329,47 +387,4 @@ Positive triggers:
 
 
 
-### 5.6 Reporting Cycle
-
-How often and for whom should we be producing reports or information.
-
-
-### 5.7 Consultation
-
-I would like to give developers the opportunity to comment on this report (and its supporting info) for a whole month after it is published on 1st September 2021.
-
-Am considering whether opening it up to pull requests in GitHub may be a useful way to do this.
-
-Aim to begin implementation in October. At the very least each Senior Dev should have had their first coaching session prior to things beginning.
-
-
-### 5.8 Retrospective and Review
-
-How often and when specifically do we plan to review the perf mgmt system.
-
-If our "trial run" goes from October to end of March then we'd like iteration 2 to be ready to begin in April 2022.
-
-
-### 5.9 Calendar/Timeline
-
-This is an evolution of the previous "practice" system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
-
-Need to produce a calendar showing key activities
-
-Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
-
-The Principals and Sean may also wish for a separate timeline regarding where I plan to be in the creation of this report between now and 1st September.
-
-### Checklists
-
-Why checklists work (e.g. Checklist Manifesto, and also reference medical usage)
-
-We will provide checklists for:
-
-- What Sean needs to do
-- What Principals need to do
-- What Senior Devs need to do
-- What other devs need to do
-
-(These need to be situational)
 
