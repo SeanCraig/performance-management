@@ -84,6 +84,8 @@ DTLT have also been receiving strong messages from both the Director of Product 
 
 - What specifically are we trying to achieve here.
 
+TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
+
 ### 2.1 Individual Goals
 
 - Promote a working environment conducive to happiness and good mental health
@@ -115,6 +117,8 @@ DTLT have also been receiving strong messages from both the Director of Product 
 - What could prevent us from achieving our goals.
 - How will we avoid falling into these traps.
 
+TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
+
 ### 3.1 Individual Barriers
 
 - Individuals usually fear and despise any approach to performance management.
@@ -137,7 +141,7 @@ DTLT have also been receiving strong messages from both the Director of Product 
 
 ## 4. How we will measure our success
 
-TODO
+TODO: This section should replace sections 2 and 3 above (which are to be refactored into the Values section)
 
 It's important to identify ways to see whether we're on track i.e.
 
@@ -145,6 +149,8 @@ It's important to identify ways to see whether we're on track i.e.
 - are we overcoming the barriers
 
 Note that this isn't about measuring the performance of individuals. It's about measuring how well DTLT are doing at bringing about the desired environment and culture.
+
+TODO: So what are the KPIs we will monitor e.g. percentage of developers who commit code to a repository each sprint, compliance with the quarterly PDR process, etc.
 
 ---
 
@@ -156,7 +162,7 @@ While it would have been standard practise to put in place a "performance manage
 
 We understand that it is difficult to describe what it is that makes up a working environment and culture. So we agreed to begin by setting out a set of guiding values to help us design and communicate The Way We Work:
 
-TODO: Maybe rewrite some of these slightly, and also add a bit more detail for each
+TODO: Maybe rewrite some of these slightly, and also add a bit more detail for each. We will be moving the contents of section 2 (Goals) and 3 (Barriers) here to show how applying these values leads to positive outcomes and avoids negative outcomes.
 
 - Shift away from "assessing performance" and new focus on "enhancing performance"
 - Focus on the future and not on the past
