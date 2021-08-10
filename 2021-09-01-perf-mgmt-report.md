@@ -57,15 +57,15 @@ TODO: Use corporate controlled document teplate
 
 This document sets out our vision for the environment and culture within which we wish NHSUK software developers to operate. It also explains how we intend to bring about and maintain that environment and culture.
 
-As such, this document is intended to provide an overall policy position so that the leadership team (DTLT) can act independently in a fair and consistent way while bringing about the policy objectives.
+As such, this document is intended to provide an overall policy position so that the Dev & Test Leadership Team ("the leadership team") can act independently in a fair and consistent way while bringing about the policy objectives.
 
 While we'd encourage all developers and related professionals to read this document, we'd also recommend referring to the relevant Quick Guide in the appendices to see what this policy means for you specifically. 
 
 ## 1.2 Why have we created The Way We Work?
 
-Recent surveys of NHSUK developers have told us that in order to do their best work they need a clearer explanation of their roles and more support from DTLT. This document is our attempt to meet those needs.
+Recent surveys of NHSUK developers have told us that in order to do their best work they need a clearer explanation of their roles and more support from the leadership team. This document is our attempt to meet those needs.
 
-DTLT have also been receiving strong messages from both the Director of Product Delivery, its Head of Engineering, and our own Head of Delivery about the urgent need to re-focus our activities to secure improvements in certain key areas. This document explains the systems which we believe will bring about those improvements. 
+The leadership team have also been receiving strong messages from both the Director of Product Delivery, its Head of Engineering, and our own Head of Delivery about the urgent need to re-focus our activities to secure improvements in certain key areas. This document explains the systems which we believe will bring about those improvements. 
 
 ## 1.3. Scope of The Way We Work
 
