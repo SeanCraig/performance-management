@@ -148,7 +148,7 @@ It's important to identify ways to see whether we're on track i.e.
 - are we meeting our goals
 - are we overcoming the barriers
 
-Note that this isn't about measuring the rmance of individuals. It's about measuring how well DTLT are doing at bringing about the desired environment and culture.
+Note that this **is not** about measuring the performance of individuals. It's about measuring how well the leadership team are doing at bringing about an environment and culture where individuals can flourish.
 
 TODO: So what are the KPIs we will monitor e.g. percentage of developers who commit code to a repository each sprint, compliance with the quarterly PDR process, etc.
 
