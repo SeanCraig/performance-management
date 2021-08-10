@@ -127,7 +127,7 @@ TODO: Our Values (by definition) should help deliver these goals. Therefore, set
 
 ### 3.2 Team Barriers
 
-- Performance management is often disconnected from the flow of work, and therefore gets overlooked.
+- Continuing professional development is often disconnected from the flow of work, and therefore gets overlooked.
 - Lack of psychological safety in teams may hide or prevent useful feedback.
 - Teams are often focussed more on deadlines and delivery rather than in creating the conditions for growth and workforce success.
 
@@ -148,7 +148,7 @@ It's important to identify ways to see whether we're on track i.e.
 - are we meeting our goals
 - are we overcoming the barriers
 
-Note that this isn't about measuring the performance of individuals. It's about measuring how well DTLT are doing at bringing about the desired environment and culture.
+Note that this isn't about measuring the rmance of individuals. It's about measuring how well DTLT are doing at bringing about the desired environment and culture.
 
 TODO: So what are the KPIs we will monitor e.g. percentage of developers who commit code to a repository each sprint, compliance with the quarterly PDR process, etc.
 
@@ -164,7 +164,7 @@ We understand that it is difficult to describe what it is that makes up a workin
 
 TODO: Maybe rewrite some of these slightly, and also add a bit more detail for each. We will be moving the contents of section 2 (Goals) and 3 (Barriers) here to show how applying these values leads to positive outcomes and avoids negative outcomes.
 
-- Shift away from "assessing performance" and new focus on "enhancing performance"
+- Shift away from "assessing performance" and new focus on "continuing professional development"
 - Focus on the future and not on the past
 - Human centred and motivating, not process-centred and punitive
 - Improvement-oriented, not compliance-oriented or judgemental
@@ -262,7 +262,7 @@ What support-related roles and activities are expected of:
 There are various activities to be distributed amongst the stakeholders:
 
 - Compliance with the process/system itself
-- Collecting information (e.g. to support evaluation of performance)
+- Collecting information (e.g. to measure the success of our approach)
 - Filtering/evaluating information (e.g. who deserves praise this week)
 - Meetings and interactions (e.g. weekly 1-2-1s, regular discussions with DMs/POs)
 - Promotion/Communication (e.g. about the system, but also public praise for individuals)
@@ -320,7 +320,7 @@ Example of "routine" intervention:
 
 Example of extreme intervention:
 
-- We may wish to consider offering staff the ability to voluntarily drop down a band if they consistently fail to meet performance targets.
+- We may wish to consider offering staff the ability to voluntarily drop down a band if they consistently fail to carry out their expected role or to achieve the objectives they set for themselves.
 - If so, we'd need to do the work now to identify how we could make that work with HR.
 - But we also need a bullet-proof way to fairly (i.e. without bias) establish that this was now the correct outcome, and that we have tried everything else.
 - We'd also need to clearly set out how this is a "kind" intervention for the individual, designed to more appropriately challenge them with work they would be able to succeed at. (Optimum challenge)
@@ -386,6 +386,7 @@ This section is for recording
 ## Contractors
 
 - How should we manage the performance of contractors?
+- Should this be a completely separate thing from this document?
 - Should we even try?
 - Is it even our responsibility?
 - Should DMs not Principal Engineers line manage the contractors?
