@@ -239,8 +239,8 @@ Participation and compliance
 
 How this all fits with the existing line management arrangements:
 
-- Staff will be asked to document their accomplishments through the week
-- Staff will discuss and reflect on these accomplishments with their line managers each week
+- Staff will be asked to document their accomplishments through the course of a sprint
+- Staff will discuss and reflect on these accomplishments with their line managers each fortnight after the sprint retrospective (i.e. Tuesday afternoon)
 - Benefit to them: This record of continuing professional development will assist them in progressing their career. (e.g. by making it easier to prepare for promotion)
 - Benefit to them: ... Need more ways to sell this as a useful thing to the individual and the line manager.
 
