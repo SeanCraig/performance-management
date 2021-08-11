@@ -29,7 +29,7 @@ TODO: Use corporate controlled document teplate
 ## Table of Contents
 
 1. Introduction  
-    1.1 What is The Way We Work? 
+    1.1 What is The Way We Work?   
     1.2 Why have we created The Way We Work?  
     1.3 Scope of The Way We Work
 2. Goals of The Way We Work   
